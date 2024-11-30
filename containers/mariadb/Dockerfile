@@ -1,0 +1,3 @@
+FROM mariadb:11.4
+
+ENV MARIADB_ROOT_PASSWORD="admin"
